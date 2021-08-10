@@ -2,7 +2,10 @@ package com.misiontic2022.retoselkin.Reto2;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-
+/**
+ * TEST Reto2 Ciclo2 MisionTic2022
+ *
+ */
 public class Main {
     public static void main(String[] args) throws ParseException {
         var fecha = new SimpleDateFormat("dd/MM/yyyy").parse("10/06/2021");
